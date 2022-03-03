@@ -11,5 +11,5 @@ Practice Repository
 ### Files Used
 N/A
 ### Additional Documentation
-[title](https://myui.uiowa.edu/my-ui/home.page)
+[MyUI:](https://myui.uiowa.edu/my-ui/home.page)
 ### Version Summary
